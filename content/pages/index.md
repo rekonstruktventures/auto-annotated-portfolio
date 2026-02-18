@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: Elevating Expeiences // Connecting People
+    title: Elevating Expeiences + Connecting People
     subtitle: '"We curate high-impact experriences"'
     styles:
       self:
