@@ -111,5 +111,5 @@ sections:
           - pl-4
         flexDirection: row
         textAlign: left
-        borderWidth: 8
+        borderWidth: 0
 ---
