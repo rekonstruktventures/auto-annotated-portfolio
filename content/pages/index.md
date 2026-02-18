@@ -14,7 +14,9 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Elevating Experiences Connecting People
-    subtitle: '"We curate high-impact experriences"'
+    subtitle: >-
+      "We curate high-impact experriences for schools , brands & premium venues
+      -- sparking engagement & results without the hassle."
     styles:
       self:
         height: auto
