@@ -97,7 +97,7 @@ sections:
           textAlign: center
     styles:
       self:
-        height: auto
+        height: screen
         width: narrow
         margin:
           - mt-0
