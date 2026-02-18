@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: 'Curating Elevating Experiences while Connecting People '
+    title: Transforming Ideas into High Impact Collaborations
     subtitle: >-
       "We curate high-impact experriences for schools, brands & premium venues
       -- sparking engagement & results without the hassle."
