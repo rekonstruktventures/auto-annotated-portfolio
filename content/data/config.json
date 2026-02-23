@@ -6,7 +6,7 @@
         "headerVariant": "variant-b",
         "isSticky": false,
         "title": "Rekonstrukt Global Services Pvt Ltd",
-        "isTitleVisible": true,
+        "isTitleVisible": false,
         "primaryLinks": [
             {
                 "type": "Link",
