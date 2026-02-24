@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: full
+    backgroundSize: inset
     title: 'Transforming Ideas into High Impact Collaborations '
     subtitle: >-
       "We curate high-impact experriences for schools, brands & premium venues
