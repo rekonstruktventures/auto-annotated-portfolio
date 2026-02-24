@@ -91,6 +91,11 @@ sections:
           isRequired: true
           width: 1/2
           type: EmailFormControl
+        - type: CheckboxFormControl
+          name: updates
+          label: Sign me up to receive updates
+          width: 1/2
+          isRequired: false
       submitLabel: "Submit \U0001F680"
       styles:
         self:
