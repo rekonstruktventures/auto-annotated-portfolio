@@ -91,6 +91,16 @@ sections:
           isRequired: true
           width: 1/2
           type: EmailFormControl
+        - type: SelectFormControl
+          name: Message
+          label: Subject
+          hideLabel: false
+          defaultValue: Please choose...
+          options:
+            - Logo design
+            - Other
+          width: full
+          isRequired: false
       submitLabel: "Submit \U0001F680"
       styles:
         self:
