@@ -21,7 +21,7 @@
             {
                 "type": "Link",
                 "label": "Click here to write to us",
-                "url": "mailto:partnerships@rekonstrukt.xyz",
+                "url": "partnerships@rekonstrukt.xyz",
                 "altText": "",
                 "showIcon": true,
                 "icon": "arrowRight",
