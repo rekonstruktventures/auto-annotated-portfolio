@@ -31,43 +31,6 @@ bottomSections:
         textAlign: left
     showFeaturedImage: true
     showReadMoreLink: true
-  - type: CtaSection
-    title: Let's do this
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
-    actions:
-      - type: Button
-        label: Try it now
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-      - type: Link
-        label: Learn more
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        elementId: ''
-    colors: colors-f
-    backgroundSize: full
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        flexDirection: row
-        textAlign: left
 ---
 Most of what I know about this industry did not come from textbooks, courses, or business theory. It came from being inside the system early and staying there long enough to see how things actually work.
 
