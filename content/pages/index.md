@@ -98,6 +98,39 @@ sections:
         textAlign: left
     subtitle: Projects
   - type: ContactSection
+    title: Subscribe
+    text: Join my newsletter to stay up-to-date
+    form:
+      type: FormBlock
+      title: Title of the form
+      fields:
+        - type: EmailFormControl
+          name: email
+          label: Name
+          hideLabel: false
+          placeholder: Your email
+          width: full
+          isRequired: 'true'
+      submitLabel: Sign Up
+      elementId: contact-form
+      styles:
+        self:
+          textAlign: left
+    colors: colors-c
+    backgroundSize: full
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-28
+          - pb-36
+          - pl-4
+          - pr-4
+        flexDirection: row
+        textAlign: left
+  - type: ContactSection
     colors: colors-f
     backgroundSize: full
     title: Get in touch
