@@ -23,7 +23,10 @@ description: >-
   actively looking to modernize their extracurricular ecosystem while
   maintaining strong cultural engagement for students.The long-term vision is to
   create a national pipeline connecting schools with creators and professionals,
-  allowing students to experience industries that textbooks rarely introduce.
+  allowing students to experience industries that textbooks rarely
+  introduce.It’s hard to imagine that I’ve that I wrote all this code by myself,
+  probably because I worked with an entire team :) but they definitely followed
+  my lead most of the time.
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
