@@ -9,28 +9,7 @@ featuredImage:
   type: ImageBlock
   url: /images/featured-Image5.jpg
   altText: Post thumbnail image
-bottomSections:
-  - elementId: ''
-    type: RecentPostsSection
-    colors: colors-f
-    variant: variant-d
-    subtitle: Recent posts
-    showDate: true
-    showAuthor: true
-    showExcerpt: true
-    recentCount: 5
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-12
-          - pb-56
-          - pr-4
-          - pl-4
-        textAlign: left
-    showFeaturedImage: true
-    showReadMoreLink: true
+bottomSections: []
 ---
 Artificial intelligence is dominating headlines, boardrooms, and capital markets. Every industry—from finance and healthcare to entertainment and education—is being reshaped by algorithms, automation, and intelligent systems.
 
