@@ -4,7 +4,6 @@
     "lastName": "",
     "image": {
         "type": "ImageBlock",
-        "url": "/images/about.jpg",
         "altText": ""
     }
 }
