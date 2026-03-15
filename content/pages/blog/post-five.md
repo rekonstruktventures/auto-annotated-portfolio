@@ -16,7 +16,7 @@ bottomSections:
     variant: variant-d
     subtitle: Recent posts
     showDate: true
-    showAuthor: false
+    showAuthor: true
     showExcerpt: true
     recentCount: 5
     styles:
