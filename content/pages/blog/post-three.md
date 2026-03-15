@@ -41,21 +41,6 @@ bottomSections:
     showFeaturedImage: true
     showReadMoreLink: true
     title: ''
-  - type: ContactSection
-    backgroundSize: full
-    title: Stay up-to-date with my words ✍️
-    colors: colors-f
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-24
-          - pb-24
-          - pr-4
-          - pl-4
-        flexDirection: row
-        textAlign: left
 ---
 The next decade will reshape how institutions, venues, and brands interact with people. The shift is already visible. Attention is fragmenting, traditional programming models are becoming outdated, and audiences are demanding experiences that feel real, consistent, and culturally relevant.
 
