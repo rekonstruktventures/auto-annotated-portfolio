@@ -155,7 +155,7 @@ sections:
           placeholder: Type your message here
           width: full
           isRequired: false
-      submitLabel: "Submit \U0001F680"
+      submitLabel: "Send\U0001F680"
       styles:
         self:
           textAlign: center
