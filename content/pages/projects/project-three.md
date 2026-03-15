@@ -4,7 +4,7 @@ title: 'One more cool project '
 colors: colors-a
 date: '2026-03-16'
 client: Awesome client
-description: ''
+description: Rebuilding Supplementary Education for Modern Schools
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
