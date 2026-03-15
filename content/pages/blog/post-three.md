@@ -1,6 +1,8 @@
 ---
 type: PostLayout
-title: Composable - the future of web
+title: >-
+  Preparing for the Next Wave: Where Culture, Education, and Attention Are
+  Heading
 colors: colors-b
 date: '2024-01-01'
 author: content/data/team/doris-soto.json
