@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: One more cool project
+title: One more cool project - Rebuilding Supplementary Education for Modern Schools
 colors: colors-a
 date: '2026-03-16'
 client: Awesome client
