@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Another cool project
 colors: colors-a
-date: '2021-12-20'
+date: '2026-03-16'
 client: ''
 description: Structured Live Music Programming for Nightlife Venues
 featuredImage:
