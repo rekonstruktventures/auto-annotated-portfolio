@@ -23,7 +23,8 @@
                 "label": "Contact",
                 "url": "mailto:partnerships@rekonstrukt.xyzd",
                 "altText": "",
-                "showIcon": true
+                "showIcon": true,
+                "icon": "arrowRight"
             }
         ],
         "contacts": {
