@@ -4,7 +4,7 @@ title: >-
   Preparing for the Next Wave: Where Culture, Education and Attention Are
   Heading
 colors: colors-b
-date: '2026-02-04'
+date: '2026-03-15'
 author: content/data/team/doris-soto.json
 excerpt: ''
 featuredImage:
