@@ -14,10 +14,12 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      # Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+      # **Rekonstrukt Global Services Pvt. Ltd.** was founded with a clear
+      vision: to redesign how experiences, education, and engagement are
+      delivered for the next generation. We operate at the intersection of
+      events, youth culture, education, and brand collaboration—building
+      platforms that create meaningful impact while remaining commercially
+      scalable.
 
     styles:
       self:
