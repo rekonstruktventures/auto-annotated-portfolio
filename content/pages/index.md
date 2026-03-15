@@ -36,7 +36,7 @@ sections:
     type: HeroSection
     actions: []
   - type: FeaturedPostsSection
-    title: 'Posts:'
+    title: 'Must Read '
     actions:
       - type: Link
         label: See all posts
@@ -47,9 +47,11 @@ sections:
         iconPosition: right
         elementId: ''
     posts:
-      - content/pages/blog/post-five.md
       - content/pages/blog/post-four.md
       - content/pages/blog/post-three.md
+      - content/pages/blog/post-two.md
+      - content/pages/blog/post-six.md
+      - content/pages/blog/post-seven.md
     colors: colors-f
     variant: variant-b
     elementId: ''
@@ -95,66 +97,4 @@ sections:
           - pr-4
         textAlign: left
     subtitle: Projects
-  - type: ContactSection
-    colors: colors-f
-    backgroundSize: full
-    title: Get in touch
-    form:
-      type: FormBlock
-      elementId: sign-up-form
-      fields:
-        - name: firstName
-          label: First Name
-          hideLabel: true
-          placeholder: First Name
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
-        - name: lastName
-          label: Last Name
-          hideLabel: true
-          placeholder: Last Name
-          isRequired: false
-          width: 1/2
-          type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Email
-          isRequired: true
-          width: 1/2
-          type: EmailFormControl
-        - type: TextareaFormControl
-          name: message
-          label: Message
-          hideLabel: false
-          placeholder: Type your message here
-          width: full
-          isRequired: false
-        - type: CheckboxFormControl
-          name: updates
-          label: Sign me up to receive updates
-          width: 1/2
-          isRequired: false
-      submitLabel: "Submit \U0001F680"
-      styles:
-        self:
-          textAlign: center
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-24
-          - pb-24
-          - pr-4
-          - pl-4
-        flexDirection: row
-        textAlign: left
-        borderWidth: 0
 ---

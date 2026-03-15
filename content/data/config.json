@@ -17,26 +17,17 @@
     },
     "footer": {
         "type": "Footer",
-        "primaryLinks": [
-            {
-                "type": "Link",
-                "label": "Contact",
-                "url": "mailto:partnerships@rekonstrukt.xyzd",
-                "altText": "",
-                "showIcon": true,
-                "icon": "arrowRight",
-                "iconPosition": "left"
-            }
-        ],
+        "primaryLinks": [],
         "contacts": {
             "type": "ContactBlock",
-            "title": "Contact details",
+            "title": "",
             "phoneNumber": "",
-            "phoneAltText": "My phone number",
-            "email": "",
+            "phoneAltText": "",
+            "email": "📩 partnerships@rekonstrukt.xyz",
             "emailAltText": "",
             "address": "",
-            "addressAltText": "My address"
+            "addressAltText": "",
+            "elementId": ""
         },
         "copyrightText": "Made with ❤️\n",
         "styles": {
