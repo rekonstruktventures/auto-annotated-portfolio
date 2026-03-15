@@ -51,6 +51,7 @@ sections:
       - content/pages/blog/post-three.md
       - content/pages/blog/post-two.md
       - content/pages/blog/post-six.md
+      - content/pages/blog/post-seven.md
     colors: colors-f
     variant: variant-b
     elementId: ''
