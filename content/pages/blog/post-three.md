@@ -23,7 +23,7 @@ bottomSections:
     type: RecentPostsSection
     colors: colors-f
     variant: variant-d
-    subtitle: Recent posts
+    subtitle: Must Read
     showDate: true
     showAuthor: false
     showExcerpt: true
