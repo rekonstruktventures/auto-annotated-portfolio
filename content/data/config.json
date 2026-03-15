@@ -34,7 +34,7 @@
             "phoneNumber": "",
             "phoneAltText": "",
             "email": "",
-            "emailAltText": "Email",
+            "emailAltText": "",
             "address": "",
             "addressAltText": "Address",
             "elementId": ""
