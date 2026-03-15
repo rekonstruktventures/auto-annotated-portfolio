@@ -3,7 +3,7 @@ type: ProjectLayout
 title: A very cool project
 colors: colors-a
 date: '2026-03-16'
-client: Awesome client
+client: ❤️
 description: Attention Infrastructure for Modern Brands
 featuredImage:
   type: ImageBlock
