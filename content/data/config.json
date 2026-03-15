@@ -17,17 +17,7 @@
     },
     "footer": {
         "type": "Footer",
-        "primaryLinks": [
-            {
-                "type": "Link",
-                "label": "Click here to write to us",
-                "url": "partnerships@rekonstrukt.xyz",
-                "altText": "",
-                "showIcon": true,
-                "icon": "arrowRight",
-                "iconPosition": "left"
-            }
-        ],
+        "primaryLinks": [],
         "contacts": {
             "type": "ContactBlock",
             "title": "",
