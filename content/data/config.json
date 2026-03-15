@@ -32,7 +32,7 @@
             "type": "ContactBlock",
             "title": "",
             "phoneNumber": "",
-            "phoneAltText": "Phone",
+            "phoneAltText": "",
             "email": "",
             "emailAltText": "Email",
             "address": "",
