@@ -17,15 +17,11 @@ featuredImage:
   url: /images/featured-Image2.jpg
   altText: Post thumbnail image
 media:
-  type: VideoBlock
-  title: Title of the video
-  url: 'https://youtu.be/BD-YliszGkA'
+  type: ImageBlock
+  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  altText: altText of the image
+  caption: Caption of the image
   elementId: ''
-  autoplay: false
-  loop: false
-  muted: false
-  controls: true
-  aspectRatio: '16:9'
 bottomSections:
   - elementId: ''
     type: RecentPostsSection
