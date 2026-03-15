@@ -115,9 +115,14 @@ sections:
     subtitle: Projects
   - type: CtaSection
     title: Let's do this - Build the Future of Experiences With Us
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: >+
+      Partner with Rekonstrukt to bring world-class events, creative programs,
+      and meaningful engagement to your institution or brand.
+
+
+
+
+
     actions: []
     colors: colors-f
     backgroundSize: full
