@@ -19,12 +19,6 @@ sections:
       ex-super big name. When I’m not coding, writing or creating, I eat
       cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
 
-    media:
-      type: ImageBlock
-      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
-      altText: altText of the image
-      caption: Caption of the image
-      elementId: ''
     styles:
       self:
         height: auto
