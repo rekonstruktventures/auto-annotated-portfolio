@@ -15,8 +15,8 @@ sections:
     backgroundSize: full
     title: 'Transforming Ideas into High Impact Collaborations '
     subtitle: >-
-      "We curate high-impact experiences for schools, brands & premium venues --
-      sparking engagement & results without the hassle."
+      "We curate high-impact experiences for schools, corporates, brands &
+      premium venues -- sparking engagement & results without the hassle."
     styles:
       self:
         height: auto
@@ -35,6 +35,18 @@ sections:
         textAlign: left
     type: HeroSection
     actions: []
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: narrow
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        borderWidth: 1
   - type: FeaturedPostsSection
     title: 'Must Read '
     actions:
@@ -70,6 +82,18 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: narrow
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        borderWidth: 1
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
