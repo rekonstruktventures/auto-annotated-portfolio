@@ -15,8 +15,8 @@ sections:
     backgroundSize: full
     title: 'Transforming Ideas into High Impact Collaborations '
     subtitle: >-
-      "We curate high-impact experiences for schools, brands & premium venues --
-      sparking engagement & results without the hassle."
+      "We curate high-impact experiences for schools, corporates, brands &
+      premium venues -- sparking engagement & results without the hassle."
     styles:
       self:
         height: auto
