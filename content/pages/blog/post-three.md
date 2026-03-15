@@ -40,6 +40,7 @@ bottomSections:
         textAlign: left
     showFeaturedImage: true
     showReadMoreLink: true
+    title: Hey
   - type: ContactSection
     backgroundSize: full
     title: Stay up-to-date with my words ✍️
