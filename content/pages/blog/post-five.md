@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: AI Is So Hot Right Now ! But Hype Alone Doesn’t Build the Future
+title: AI Is So Hot Right Now - Hype Alone Doesn’t Build the Future
 colors: colors-a
 date: '2024-05-02'
 author: content/data/team/doris-soto.json
