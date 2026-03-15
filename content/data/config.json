@@ -8,7 +8,16 @@
         "title": "Rekonstrukt",
         "isTitleVisible": true,
         "primaryLinks": [],
-        "socialLinks": [],
+        "socialLinks": [
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "www.instagram.com/rekonstrukt",
+                "icon": "instagram",
+                "elementId": ""
+            }
+        ],
         "styles": {
             "self": {
                 "width": "full"
