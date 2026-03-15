@@ -83,4 +83,5 @@ sections:
           - pr-4
         textAlign: left
     type: HeroSection
+    title: About Us
 ---
