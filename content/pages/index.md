@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 75
 sections:
   - type: QuoteSection
-    quote: Out of chaosOrder is born.
+    quote: Out of chaos Order is born.
     name: Founder
     title: Rekonstrukt Global Services
     colors: colors-f
