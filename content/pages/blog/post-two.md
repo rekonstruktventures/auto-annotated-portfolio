@@ -9,7 +9,7 @@ backgroundImage:
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 75
-date: '2026-02-04'
+date: '2026-03-15'
 author: content/data/team/doris-soto.json
 excerpt: ''
 featuredImage:
