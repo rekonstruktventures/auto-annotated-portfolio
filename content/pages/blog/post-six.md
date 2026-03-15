@@ -2,7 +2,7 @@
 type: PostLayout
 title: The SUPW System Failed. Schools Need a Modern Supplementary Education Model.
 colors: colors-a
-date: '2024-02-04'
+date: '2026-02-04'
 author: content/data/team/doris-soto.json
 excerpt: More context that may or may not be helpful
 featuredImage:
