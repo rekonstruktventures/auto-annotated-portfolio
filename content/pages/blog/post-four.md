@@ -9,28 +9,7 @@ featuredImage:
   type: ImageBlock
   url: /images/featured-Image4.jpg
   altText: Post thumbnail image
-bottomSections:
-  - elementId: ''
-    type: RecentPostsSection
-    colors: colors-f
-    variant: variant-d
-    subtitle: Recent posts
-    showDate: true
-    showAuthor: false
-    showExcerpt: true
-    recentCount: 2
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-12
-          - pb-56
-          - pr-4
-          - pl-4
-        textAlign: left
-    showFeaturedImage: true
-    showReadMoreLink: true
+bottomSections: []
 ---
 Most of what I know about this industry did not come from textbooks, courses, or business theory. It came from being inside the system early and staying there long enough to see how things actually work.
 
