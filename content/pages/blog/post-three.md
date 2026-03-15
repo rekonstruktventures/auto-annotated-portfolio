@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: >-
-  Preparing for the Next Wave: Where Culture, Education, and Attention Are
+  Preparing for the Next Wave: Where Culture, Education and Attention Are
   Heading
 colors: colors-b
 date: '2026-02-04'
