@@ -13,7 +13,7 @@ sections:
   - type: QuoteSection
     quote: Out of chaos - Order is born.
     name: Founder
-    title: Product Marketing Manager at Acme
+    title: Rekonstrukt Global Services
     colors: colors-f
     elementId: ''
     styles:
