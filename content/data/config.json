@@ -4,7 +4,7 @@
     "header": {
         "type": "Header",
         "headerVariant": "variant-b",
-        "isSticky": false,
+        "isSticky": true,
         "title": "Rekonstrukt",
         "isTitleVisible": true,
         "primaryLinks": [],
@@ -23,9 +23,9 @@
             "title": "",
             "phoneNumber": "",
             "phoneAltText": "",
-            "email": "📩 partnerships@rekonstrukt.xyz",
+            "email": "partnerships@rekonstrukt.xyz",
             "emailAltText": "",
-            "address": "",
+            "address": "New Delhi | New York | London | Singapore | Australia",
             "addressAltText": "",
             "elementId": ""
         },
