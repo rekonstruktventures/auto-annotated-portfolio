@@ -28,7 +28,7 @@ postFeed:
         - pb-12
 topSections:
   - type: HeroSection
-    title: must read
+    title: ''
     subtitle: ''
     actions: []
     colors: colors-f
