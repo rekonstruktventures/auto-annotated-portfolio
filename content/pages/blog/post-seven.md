@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: Nightclubs Don’t Need More DJs. They Need Structured Live Music Programming.
+title: Venues Don’t Need More DJs. They Need Structured Live Music Programming.
 colors: colors-a
 date: '2026-03-15'
 author: content/data/team/doris-soto.json
