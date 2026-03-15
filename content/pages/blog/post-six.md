@@ -9,28 +9,7 @@ featuredImage:
   type: ImageBlock
   url: /images/featured-Image6.jpg
   altText: Post thumbnail image
-bottomSections:
-  - elementId: ''
-    type: RecentPostsSection
-    colors: colors-f
-    variant: variant-d
-    subtitle: Recent posts
-    showDate: true
-    showAuthor: false
-    showExcerpt: true
-    recentCount: 2
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-12
-          - pb-56
-          - pr-4
-          - pl-4
-        textAlign: left
-    showFeaturedImage: true
-    showReadMoreLink: true
+bottomSections: []
 ---
 For years, Indian schools had something called SUPW — Socially Useful Productive Work. In theory, it was meant to expose students to real-world skills beyond textbooks. In practice, it became a box-ticking exercise. Paper crafts, occasional workshops, and activities that had very little connection to the modern world.
 
