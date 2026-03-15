@@ -114,7 +114,7 @@ sections:
         textAlign: left
     subtitle: Projects
   - type: CtaSection
-    title: Let's do this
+    title: Let's do this - Build the Future of Experiences With Us
     text: >-
       The Stackbit theme is flexible and scalable to every need. It can manage
       any layout and any screen.
