@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 75
 date: '2026-02-04'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: ''
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image2.jpg
