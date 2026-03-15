@@ -51,44 +51,51 @@ sections:
         borderWidth: 1
         borderStyle: solid
   - type: MediaGallerySection
-    colors: colors-f
-    subtitle: 'I worked with these folks:'
+    title: Gallery
+    subtitle: This is the subtitle
     images:
       - type: ImageBlock
         url: /images/logo1.svg
-        altText: Logo one
-        caption: Logo one
+        altText: logo one
+        caption: Caption of the image
+        elementId: ''
       - type: ImageBlock
         url: /images/logo2.svg
-        altText: Logo two
-        caption: Logo two
+        altText: logo two
+        caption: Caption of the image
+        elementId: ''
       - type: ImageBlock
         url: /images/logo3.svg
-        altText: Logo three
-        caption: Logo three
+        altText: logo three
+        caption: Caption of the image
+        elementId: ''
       - type: ImageBlock
         url: /images/logo4.svg
-        altText: Logo four
-        caption: Logo four
+        altText: logo four
+        caption: Caption of the image
+        elementId: ''
       - type: ImageBlock
         url: /images/logo5.svg
-        altText: Logo five
-        caption: Logo five
-    spacing: 3
+        altText: logo five
+        caption: Caption of the image
+        elementId: ''
+    colors: colors-a
+    spacing: 16
     columns: 5
-    aspectRatio: auto
-    showCaption: false
+    aspectRatio: '16:9'
+    showCaption: true
     enableHover: false
+    elementId: ''
     styles:
       self:
-        width: wide
         height: auto
+        width: wide
         padding:
-          - pt-8
-          - pb-8
+          - pt-12
+          - pb-12
           - pl-4
           - pr-4
-        textAlign: left
+        textAlign: center
   - type: DividerSection
     styles:
       self:
