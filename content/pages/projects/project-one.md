@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: A very cool project
 colors: colors-a
-date: '2021-10-15'
+date: '2026-03-16'
 client: Awesome client
 description: Attention Infrastructure for Modern Brands
 featuredImage:
