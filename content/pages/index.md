@@ -10,22 +10,6 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
-  - type: QuoteSection
-    quote: Out of chaos - Order is born.
-    name: Founder
-    title: Rekonstrukt Global Services
-    colors: colors-f
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-36
-          - pb-36
-          - pl-4
-          - pr-4
-        textAlign: center
   - elementId: ''
     colors: colors-f
     backgroundSize: full
@@ -114,7 +98,7 @@ sections:
         textAlign: left
     subtitle: Projects
   - type: CtaSection
-    title: Let's do this - Build the Future of Experiences With Us
+    title: Build the Future of Experiences With Us
     text: >+
       Partner with Rekonstrukt to bring world-class events, creative programs,
       and meaningful engagement to your institution or brand.
