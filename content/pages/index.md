@@ -36,7 +36,7 @@ sections:
     type: HeroSection
     actions: []
   - type: FeaturedPostsSection
-    title: 'Posts:'
+    title: 'Must Read '
     actions:
       - type: Link
         label: See all posts
