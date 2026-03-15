@@ -31,7 +31,7 @@
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "850-123-5021",
+            "phoneNumber": "",
             "phoneAltText": "Phone",
             "email": "partnerships@rekonstrukt.xyz",
             "emailAltText": "Email",
