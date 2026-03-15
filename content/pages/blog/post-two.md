@@ -17,11 +17,15 @@ featuredImage:
   url: /images/featured-Image2.jpg
   altText: Post thumbnail image
 media:
-  url: /images/post-4.png
-  altText: altText of the image
-  caption: Caption of the image
+  type: VideoBlock
+  title: Title of the video
+  url: 'https://youtu.be/BD-YliszGkA'
   elementId: ''
-  type: ImageBlock
+  autoplay: false
+  loop: false
+  muted: false
+  controls: true
+  aspectRatio: '16:9'
 bottomSections:
   - elementId: ''
     type: RecentPostsSection
