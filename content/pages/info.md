@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >+
+    text: >
       **Rekonstrukt Global Services Pvt. Ltd.** was founded with a clear vision:
       to redesign how experiences, education, and engagement are delivered for
       the next generation. We operate at the intersection of events, youth
@@ -61,12 +61,8 @@ sections:
       creativity, learning, and human potential.**
 
 
-      **Rekonstrukt Global Services Pvt. Ltd.**
 
       *Reconstructing ideas. Reimagining experiences. Building the future.*
-
-
-
     styles:
       self:
         height: auto
