@@ -98,7 +98,7 @@ sections:
         textAlign: left
     subtitle: Projects
   - type: CtaSection
-    title: Let's do this - Build the Future of Experiences With Us
+    title: Build the Future of Experiences With Us
     text: >+
       Partner with Rekonstrukt to bring world-class events, creative programs,
       and meaningful engagement to your institution or brand.
