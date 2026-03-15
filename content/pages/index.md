@@ -155,11 +155,6 @@ sections:
           placeholder: Type your message here
           width: full
           isRequired: false
-        - type: CheckboxFormControl
-          name: updates
-          label: Sign me up to receive updates
-          width: 1/2
-          isRequired: false
       submitLabel: "Send\U0001F680"
       styles:
         self:
