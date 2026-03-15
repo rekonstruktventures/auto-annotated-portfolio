@@ -21,7 +21,7 @@
         "contacts": {
             "type": "ContactBlock",
             "title": "",
-            "phoneNumber": "1-800-I-LOVE-YOU",
+            "phoneNumber": "",
             "phoneAltText": "",
             "email": "partnerships@rekonstrukt.xyz",
             "emailAltText": "",
