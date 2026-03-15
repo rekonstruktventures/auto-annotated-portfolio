@@ -4,7 +4,7 @@ title: Sharing my wisdom with you
 colors: colors-a
 date: '2026-03-15'
 author: content/data/team/doris-soto.json
-excerpt: '000000'
+excerpt: ''
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image4.jpg
