@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - type: QuoteSection
     quote: Out of chaos - Order is born.
-    name: Johnna Doe
+    name: Founder
     title: Product Marketing Manager at Acme
     colors: colors-f
     elementId: ''
