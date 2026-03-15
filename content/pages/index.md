@@ -121,6 +121,30 @@ sections:
           - pr-4
         textAlign: left
     subtitle: Projects
+  - type: TextSection
+    title: About Us
+    text: >
+      **Rekonstrukt Global Services** was founded with a clear vision: to
+      redesign how experiences, education, and engagement are delivered for the
+      next generation. We operate at the intersection of events, youth culture,
+      education, and brand collaboration—building platforms that create
+      meaningful impact while remaining commercially scalable.
+
+
+      *Reconstructing ideas. Reimagining experiences. Building the future.*
+    colors: colors-f
+    variant: variant-a
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        textAlign: left
   - type: CtaSection
     title: Build the Future of Experiences With Us
     text: >+
