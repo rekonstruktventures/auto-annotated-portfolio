@@ -110,17 +110,6 @@ sections:
           - pb-8
           - pl-4
           - pr-4
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        borderWidth: 1
-        borderStyle: solid
   - type: TextSection
     variant: variant-a
     subtitle: 'Contact:'
