@@ -137,7 +137,7 @@ sections:
         altText: ''
         url: ''
         showIcon: true
-        icon: play
+        icon: mail
         iconPosition: left
         elementId: ''
     colors: colors-f
