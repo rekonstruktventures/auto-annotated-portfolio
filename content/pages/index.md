@@ -34,15 +34,7 @@ sections:
         flexDirection: row-reverse
         textAlign: left
     type: HeroSection
-    actions:
-      - type: Link
-        label: Work with us
-        altText: ''
-        url: partnerships@rekonstrukt.xyz
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        elementId: ''
+    actions: []
   - type: FeaturedPostsSection
     title: 'Must Read '
     actions:
