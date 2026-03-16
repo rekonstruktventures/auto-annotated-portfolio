@@ -132,13 +132,14 @@ sections:
 
 
     actions:
-      - type: Link
-        label: Write to us at - partnerships@rekonstrukt.xyz
+      - type: Button
+        label: Learn more
         altText: ''
-        url: ''
-        showIcon: true
-        icon: mail
-        iconPosition: left
+        url: www.instagram.com
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
         elementId: ''
     colors: colors-f
     backgroundSize: full
