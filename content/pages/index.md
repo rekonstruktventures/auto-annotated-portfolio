@@ -55,7 +55,7 @@ sections:
     variant: variant-b
     elementId: ''
     showDate: true
-    showAuthor: false
+    showAuthor: true
     showExcerpt: false
     showFeaturedImage: false
     showReadMoreLink: true
