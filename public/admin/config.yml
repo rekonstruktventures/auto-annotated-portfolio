@@ -1,0 +1,17 @@
+backend:
+  name: github
+  repo: rekonstruktventures/auto-annotated-portfolio
+
+media_folder: "public/images"
+public_folder: "/images"
+
+collections:
+  - name: "team"
+    label: "Team Members"
+    folder: "content/data/team"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Name", name: "name", widget: "string" }
+      - { label: "Role", name: "role", widget: "string" }
+      - { label: "Image", name: "image", widget: "image" }
