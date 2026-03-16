@@ -2,7 +2,7 @@
 type: PostLayout
 title: Human Performance Is the Next Competitive Advantage
 colors: colors-a
-date: '2026-03-15'
+date: '2026-03-16'
 excerpt: ''
 featuredImage:
   type: ImageBlock
