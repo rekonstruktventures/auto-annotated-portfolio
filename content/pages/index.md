@@ -138,7 +138,7 @@ sections:
         url: ''
         showIcon: true
         icon: arrowRight
-        iconPosition: right
+        iconPosition: left
         elementId: ''
     colors: colors-f
     backgroundSize: full
