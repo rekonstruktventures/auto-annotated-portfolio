@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: A very cool project
+title: ''
 colors: colors-a
 date: '2026-03-16'
 client: ❤️
@@ -18,7 +18,7 @@ Most marketing budgets today are spent on short-term campaigns that generate tem
 
 This project focuses on building an alternative approach.
 
-Instead of placing brands into isolated campaigns, **Rekonstrukt Global Services Pvt. Ltd.** integrates brands into cultural ecosystems that operate year-round.
+Instead of placing brands into isolated campaigns, **Rekonstrukt** integrates brands into cultural ecosystems that operate year-round.
 
 These ecosystems include:
 
@@ -43,6 +43,3 @@ For audiences, it avoids intrusive advertising.
 For the ecosystem, it creates sustainable funding that supports creators, venues, and educational programs.
 
 The project aims to build an **unbroken chain of attention** where brands remain visible inside cultural systems year after year.
-
-
-
