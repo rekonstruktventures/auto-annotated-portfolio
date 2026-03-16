@@ -44,7 +44,7 @@ sections:
         iconPosition: right
         elementId: ''
   - type: FeaturedItemsSection
-    title: Value propositions
+    title: What we do
     items:
       - type: FeaturedItem
         title: I'm Fast
