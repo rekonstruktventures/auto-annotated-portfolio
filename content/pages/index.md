@@ -134,7 +134,7 @@ sections:
     actions:
       - type: Link
         label: Write to us at partnerships@rekonstrukt.xyz
-        altText: ''
+        altText: earwwwc
         url: www.instragram.com/rekonstrukt
         showIcon: false
         icon: arrowRight
