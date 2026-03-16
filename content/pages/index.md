@@ -135,7 +135,7 @@ sections:
       - type: Button
         label: Learn more
         altText: ''
-        url: www.instagram.com
+        url: partnerships@rekonstrukt.xyz
         showIcon: false
         icon: arrowRight
         iconPosition: right
