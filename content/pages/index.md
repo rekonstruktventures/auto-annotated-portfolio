@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: 'Transforming Ideas into High Impact Collaborations '
+    title: 'Building the future of youth culture, education & brand engagement.'
     subtitle: >-
       "We curate high-impact experiences for schools, corporates, brands &
       premium venues -- sparking engagement & results without the hassle."
@@ -34,7 +34,15 @@ sections:
         flexDirection: row-reverse
         textAlign: left
     type: HeroSection
-    actions: []
+    actions:
+      - type: Link
+        label: Work with us
+        altText: ''
+        url: partnerships@rekonstrukt.xyz
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
   - type: FeaturedPostsSection
     title: 'Must Read '
     actions:
@@ -47,17 +55,16 @@ sections:
         iconPosition: right
         elementId: ''
     posts:
-      - content/pages/blog/post-four.md
       - content/pages/blog/post-three.md
       - content/pages/blog/post-two.md
       - content/pages/blog/post-six.md
       - content/pages/blog/post-seven.md
     colors: colors-f
-    variant: variant-b
+    variant: variant-d
     elementId: ''
     showDate: true
     showAuthor: false
-    showExcerpt: true
+    showExcerpt: false
     showFeaturedImage: false
     showReadMoreLink: true
     styles:
@@ -70,6 +77,7 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
+    subtitle: ...
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
@@ -131,7 +139,16 @@ sections:
 
 
 
-    actions: []
+    actions:
+      - type: Button
+        label: Connect
+        altText: ''
+        url: partnerships@rekonstrukt.xyz
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
     colors: colors-f
     backgroundSize: full
     elementId: ''
