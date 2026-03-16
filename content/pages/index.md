@@ -36,7 +36,7 @@ sections:
     type: HeroSection
     actions:
       - type: Link
-        label: Learn more
+        label: Work with us
         altText: ''
         url: partnerships@rekonstrukt.xyz
         showIcon: false
