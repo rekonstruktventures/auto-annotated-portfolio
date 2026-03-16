@@ -133,7 +133,7 @@ sections:
 
     actions:
       - type: Button
-        label: Learn more
+        label: Connect
         altText: ''
         url: partnerships@rekonstrukt.xyz
         showIcon: false
