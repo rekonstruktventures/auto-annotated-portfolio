@@ -3,7 +3,7 @@ type: ProjectLayout
 title: ''
 colors: colors-a
 date: '2026-03-16'
-client: ❤️
+client: Rekonstrukt Global Services
 description: Structured Live Music Programming for Nightlife Venues
 featuredImage:
   type: ImageBlock
