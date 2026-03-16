@@ -133,7 +133,7 @@ sections:
 
     actions:
       - type: Link
-        label: Learn more
+        label: 'Write to us '
         altText: ''
         url: www.instragram.com/rekonstrukt
         showIcon: false
