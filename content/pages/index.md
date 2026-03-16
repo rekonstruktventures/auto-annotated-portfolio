@@ -133,7 +133,7 @@ sections:
 
     actions:
       - type: Link
-        label: 'Write to us '
+        label: Write to us at partnerships@rekonstrukt.xyz
         altText: ''
         url: www.instragram.com/rekonstrukt
         showIcon: false
