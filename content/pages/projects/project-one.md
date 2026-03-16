@@ -9,6 +9,7 @@ featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg
   altText: Project thumbnail image
+  caption: Attention Infrastructure for Modern Brands
 media:
   type: ImageBlock
   url: /images/bg1.jpg
