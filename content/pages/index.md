@@ -69,7 +69,7 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
-    subtitle: '123456'
+    subtitle: ...
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
