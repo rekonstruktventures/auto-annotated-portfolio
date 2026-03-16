@@ -5,10 +5,6 @@ colors: colors-a
 date: '2026-03-16'
 client: ❤️
 description: Rebuilding Supplementary Education for Modern Schools
-featuredImage:
-  type: ImageBlock
-  url: /images/bg3.jpg
-  altText: Project thumbnail image
 media:
   type: ImageBlock
   url: /images/bg3.jpg
