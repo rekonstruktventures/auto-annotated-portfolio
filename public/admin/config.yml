@@ -1,17 +1,70 @@
 backend:
   name: github
-  repo: rekonstruktventures/auto-annotated-portfolio
+  repo: rekonstruktventures/auto-annotated-portfolio  # Replace with your GitHub username and repository
+  branch: main  # Or the branch you deploy from
 
 media_folder: "public/images"
 public_folder: "/images"
 
 collections:
+  - name: "pages"
+    label: "Pages"
+    folder: "src/pages"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Content", name: "body", widget: "markdown" }
+      - { label: "Hero Image", name: "hero_image", widget: "image", required: false }
+      - { label: "SEO Description", name: "seo_description", widget: "text", required: false }
+
+  - name: "components"
+    label: "Components"
+    folder: "src/components"
+    create: false
+    fields:
+      - { label: "Component Name", name: "component_name", widget: "string" }
+      - { label: "Component Data", name: "component_data", widget: "object", required: false }
+
   - name: "team"
     label: "Team Members"
     folder: "content/data/team"
     create: true
-    slug: "{{slug}}"
+    slug: "{{first_name}}-{{last_name}}"
     fields:
-      - { label: "Name", name: "name", widget: "string" }
+      - { label: "First Name", name: "first_name", widget: "string" }
+      - { label: "Last Name", name: "last_name", widget: "string" }
       - { label: "Role", name: "role", widget: "string" }
+      - { label: "Profile Picture", name: "profile_picture", widget: "image", required: false }
+      - { label: "Bio", name: "bio", widget: "text", required: false }
+
+  - name: "buttons"
+    label: "Buttons / Links"
+    folder: "content/data/buttons"
+    create: true
+    slug: "{{label}}"
+    fields:
+      - { label: "Label", name: "label", widget: "string" }
+      - { label: "URL", name: "url", widget: "string" }
+      - { label: "Open in New Tab", name: "new_tab", widget: "boolean", default: true }
+
+  - name: "images"
+    label: "Images / Media"
+    folder: "public/images"
+    create: true
+    slug: "{{filename}}"
+    fields:
       - { label: "Image", name: "image", widget: "image" }
+      - { label: "Alt Text", name: "alt", widget: "string", required: false }
+
+  - name: "style"
+    label: "Global Styles"
+    folder: "content/data"
+    files:
+      - label: "Site Style"
+        name: "style"
+        file: "content/data/style.json"
+        fields:
+          - { label: "Primary Color", name: "primary_color", widget: "string" }
+          - { label: "Secondary Color", name: "secondary_color", widget: "string" }
+          - { label: "Font Family", name: "font_family", widget: "string" }
