@@ -52,7 +52,7 @@ sections:
       - content/pages/blog/post-six.md
       - content/pages/blog/post-seven.md
     colors: colors-f
-    variant: variant-b
+    variant: variant-a
     elementId: ''
     showDate: true
     showAuthor: false
