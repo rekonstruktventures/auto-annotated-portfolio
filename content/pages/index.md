@@ -137,7 +137,7 @@ sections:
         altText: ''
         url: ''
         showIcon: true
-        icon: arrowRight
+        icon: play
         iconPosition: left
         elementId: ''
     colors: colors-f
