@@ -136,7 +136,7 @@ sections:
         label: Write to us at - partnerships@rekonstrukt.xyz
         altText: ''
         url: ''
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         elementId: ''
