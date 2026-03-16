@@ -131,7 +131,15 @@ sections:
 
 
 
-    actions: []
+    actions:
+      - type: Link
+        label: Learn more
+        altText: ''
+        url: www.instragram.com/rekonstrukt
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
     colors: colors-f
     backgroundSize: full
     elementId: ''
