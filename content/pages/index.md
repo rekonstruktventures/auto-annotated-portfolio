@@ -134,7 +134,7 @@ sections:
     actions:
       - type: Link
         label: Write to us at -partnerships@rekonstrukt.xyz
-        altText: earwwwc
+        altText: ''
         url: ''
         showIcon: false
         icon: arrowRight
