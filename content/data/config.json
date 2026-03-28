@@ -25,20 +25,15 @@
             "phoneAltText": "",
             "email": "",
             "emailAltText": "",
-            "address": "Rekonstrukt Global Services Pvt Ltd.                  ",
+            "address": "",
             "addressAltText": "",
             "elementId": ""
         },
-        "copyrightText": "Made with ❤️\n",
+        "copyrightText": "©2026 Rekonstrukt Global Services Private Limited. Engineered for the top 1% of audiences.\n",
         "styles": {
             "self": {
                 "width": "narrow",
-                "padding": [
-                    "pt-16",
-                    "pb-16",
-                    "pr-4",
-                    "pl-4"
-                ]
+                "padding": ["pt-16", "pb-16", "pr-4", "pl-4"]
             }
         }
     }

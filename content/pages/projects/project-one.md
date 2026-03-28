@@ -15,6 +15,7 @@ media:
   url: /images/bg1.jpg
   altText: Project image
 ---
+
 Most marketing budgets today are spent on short-term campaigns that generate temporary visibility but fail to create long-term brand familiarity.
 
 This project focuses on building an alternative approach.
@@ -23,13 +24,13 @@ Instead of placing brands into isolated campaigns, **Rekonstrukt** integrates br
 
 These ecosystems include:
 
-*   School-based engagement platforms
+- School-based engagement platforms
 
-*   Live music and nightlife programming
+- Live music and nightlife programming
 
-*   Youth-focused cultural events
+- Youth-focused cultural events
 
-*   creator and artist collaborations
+- creator and artist collaborations
 
 By embedding brands into environments where audiences naturally gather, attention becomes continuous rather than temporary.
 

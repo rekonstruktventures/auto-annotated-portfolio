@@ -2,6 +2,7 @@
 type: PageLayout
 title: Home
 colors: colors-a
+
 backgroundImage:
   type: BackgroundImage
   url: /images/bg1.jpg
@@ -9,14 +10,14 @@ backgroundImage:
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 75
+
 sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: 'Building the future of youth culture, education & brand engagement.'
+    title: 'Engineered for the top 1% of audiences.'
     subtitle: >-
-      "We curate high-impact experiences for schools, corporates, brands &
-      premium venues -- sparking engagement & results without the hassle."
+      “We create experiences that define culture, engagement, and attention — engineered for the few who lead the market.”
     styles:
       self:
         height: auto
@@ -35,8 +36,9 @@ sections:
         textAlign: left
     type: HeroSection
     actions: []
+
   - type: FeaturedPostsSection
-    title: 'Must Read '
+    title: 'What the Market Is Getting Wrong'
     actions:
       - type: Link
         label: See all posts
@@ -45,7 +47,6 @@ sections:
         showIcon: false
         icon: arrowRight
         iconPosition: right
-        elementId: ''
     posts:
       - content/pages/blog/post-three.md
       - content/pages/blog/post-two.md
@@ -53,7 +54,6 @@ sections:
       - content/pages/blog/post-seven.md
     colors: colors-f
     variant: variant-d
-    elementId: ''
     showDate: true
     showAuthor: false
     showExcerpt: false
@@ -69,10 +69,9 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
-    subtitle: ...
+
   - colors: colors-f
     type: FeaturedProjectsSection
-    elementId: ''
     actions:
       - type: Link
         label: See all projects
@@ -96,21 +95,24 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
-    subtitle: Projects
+
   - type: TextSection
     title: About Us
     text: >
-      **Rekonstrukt Global Services** was founded with a clear vision: to
-      redesign how experiences, education, and engagement are delivered for the
-      next generation. We operate at the intersection of events, youth culture,
-      education, and brand collaboration—building platforms that create
-      meaningful impact while remaining commercially scalable.
+      Rekonstrukt Global Services operates at the intersection of culture, education and brand engagement.
+
+      We design high-impact experiences that deliver measurable engagement, long-term value and cultural relevance. 
 
 
-      *Reconstructing ideas. Reimagining experiences. Building the future.*
+      Where conventional approaches fail, we create scalable, outcome-driven platforms that maximize attention, loyalty and impact. Every experience we build performs — it does not just exist. 
+
+
+      Our partners gain access to exclusive frameworks and activations, engineered for the few who define the market.
+
+
+      Built for impact. Designed for attention. Measured by results.
     colors: colors-f
     variant: variant-a
-    elementId: ''
     styles:
       self:
         height: auto
@@ -121,29 +123,25 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
+
   - type: CtaSection
-    title: Build the Future of Experiences With Us
+    title: 'Partner With the Experiences That Define the Market '
     text: >+
-      Partner with Rekonstrukt to bring world-class events, creative programs,
-      and meaningful engagement to your institution or brand.
-
-
-
-
+      Work with Rekonstrukt to design and execute world-class activations, creative programs, and high-impact engagement — engineered for the few who set the standard and built for lasting advantage.
 
     actions:
-      - type: Button
-        label: Connect
-        altText: ''
-        url: partnerships@rekonstrukt.xyz
+      - type: link
+        label: ' Engage With Us → '
+        altText: 'Email partnerships@rekonstrukt.xyz'
+        url: 'mailto:partnerships@rekonstrukt.xyz'
         showIcon: false
         icon: arrowRight
         iconPosition: right
         style: secondary
-        elementId: ''
+
     colors: colors-f
     backgroundSize: full
-    elementId: ''
+
     styles:
       self:
         height: auto
