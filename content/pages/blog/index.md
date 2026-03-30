@@ -28,8 +28,8 @@ postFeed:
         - pb-12
 topSections:
   - type: HeroSection
-    title: Blog
-    subtitle: ''
+    title: What the market is getting wrong
+    subtitle: 'Observations and breakdowns from inside evolving cultural and commercial systems.'
     actions: []
     colors: colors-f
     backgroundSize: full

@@ -15,9 +15,10 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: 'Engineered for the top 1% of audiences.'
+    title: 'Cultural infrastructure behind markets that move'
     subtitle: >-
-      “We create experiences that define culture, engagement, and attention — engineered for the few who lead the market.”
+      “We design systems and strategic pathways that position brands and institutions and international operators ahead of where culture is going. In today’s market attention is not marketing it is infrastructure and we build it accordingly. We are brought in when the cost of getting it wrong is no longer acceptable. Most operators are solving for visibility. We build for control.”
+
     styles:
       self:
         height: auto
@@ -99,18 +100,28 @@ sections:
   - type: TextSection
     title: About Us
     text: >
-      Rekonstrukt Global Services operates at the intersection of culture, education and brand engagement.
-
-      We design high-impact experiences that deliver measurable engagement, long-term value and cultural relevance. 
+      Rekonstrukt is a cultural infrastructure and talent acceleration firm based in New Delhi. 
 
 
-      Where conventional approaches fail, we create scalable, outcome-driven platforms that maximize attention, loyalty and impact. Every experience we build performs — it does not just exist. 
+      We were built inside the environments most agencies observe from the outside including live venues and artist networks and brand systems and institutional frameworks and international markets. 
 
 
-      Our partners gain access to exclusive frameworks and activations, engineered for the few who define the market.
+      We have seen what scales and what fails and what continues to be misdiagnosed across industries and that insight drives everything we build. 
 
 
-      Built for impact. Designed for attention. Measured by results.
+      We operate at the intersection of culture and commerce and execution. 
+
+
+      Our work includes cultural and brand strategy and live experience and programming systems and talent infrastructure and pipeline development and cross border access and market integration. 
+
+
+      We are not a service provider and we identify structural gaps and build systems that solve for them with long term commercial impact. 
+
+
+      Rekonstrukt is led by operators with over 14 years of ground level experience across live venues and artist ecosystems and brand strategy and international market exposure.
+
+
+      This is not theoretical exposure. It is built from environments where outcomes are immediate and failure is visible.
     colors: colors-f
     variant: variant-a
     styles:
@@ -127,7 +138,16 @@ sections:
   - type: CtaSection
     title: 'Partner With the Experiences That Define the Market '
     text: >+
-      Work with Rekonstrukt to design and execute world-class activations, creative programs, and high-impact engagement — engineered for the few who set the standard and built for lasting advantage.
+      Work with Rekonstrukt to design and build high impact cultural systems and strategic pathways that create long term attention and positioning and commercial advantage.
+
+
+      This is not execution support. It is structural alignment for operators who intend to lead not follow.
+
+
+      Strategic partnerships and market entry and cultural systems design.
+
+
+      Most engagements do not move forward and the right ones do quickly.
 
     actions:
       - type: link
