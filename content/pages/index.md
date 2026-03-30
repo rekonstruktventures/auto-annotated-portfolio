@@ -100,28 +100,21 @@ sections:
   - type: TextSection
     title: About Us
     text: >
-      Rekonstrukt is a cultural infrastructure and talent acceleration firm based in New Delhi. 
+      Rekonstrukt is a cultural infrastructure and talent acceleration firm operating across schools, live venues, and cultural ecosystems. 
 
 
-      We were built inside the environments most agencies observe from the outside including live venues and artist networks and brand systems and institutional frameworks and international markets. 
+      We operate at the frontlines where most agencies only observe—from live venues to artist networks, brand systems, institutional frameworks, and international markets.
+      We identify structural gaps and build systems that:
 
 
-      We have seen what scales and what fails and what continues to be misdiagnosed across industries and that insight drives everything we build. 
+      - Scale across industries 
 
 
-      We operate at the intersection of culture and commerce and execution. 
+      - Deliver measurable commercial impact   
 
 
-      Our work includes cultural and brand strategy and live experience and programming systems and talent infrastructure and pipeline development and cross border access and market integration. 
+      - Generate long-term attention and positioning for brands, schools, and venues Our team brings 14+ years of ground-level operational experience, delivering outcomes where failure is visible and impact is immediate. We don’t execute isolated campaigns or events. We design ecosystems that compound attention, maximize cultural influence, and create sustainable revenue pipelines.
 
-
-      We are not a service provider and we identify structural gaps and build systems that solve for them with long term commercial impact. 
-
-
-      Rekonstrukt is led by operators with over 14 years of ground level experience across live venues and artist ecosystems and brand strategy and international market exposure.
-
-
-      This is not theoretical exposure. It is built from environments where outcomes are immediate and failure is visible.
     colors: colors-f
     variant: variant-a
     styles:
