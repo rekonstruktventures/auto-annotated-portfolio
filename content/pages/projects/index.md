@@ -27,8 +27,8 @@ projectFeed:
         - pb-12
 topSections:
   - type: HeroSection
-    title: Platforms
-    subtitle: ''
+    title: Market Infrastructure
+    subtitle: 'Systems currently being built and deployed across culture and commerce.'
     actions: []
     colors: colors-f
     backgroundSize: full

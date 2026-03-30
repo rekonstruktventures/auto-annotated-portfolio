@@ -17,7 +17,7 @@ sections:
     backgroundSize: full
     title: 'Cultural infrastructure behind markets that move'
     subtitle: >-
-      “We design systems and strategic pathways that position brands and institutions and international operators ahead of where culture is going. In today’s market attention is not marketing it is infrastructure and we build it accordingly. We are brought in when the cost of getting it wrong is no longer acceptable. Most operators are solving for visibility. We build for control.”
+      We design systems and strategic pathways that position brands, institutions, and international operators ahead of where culture is going. We are brought in when the cost of getting it wrong is no longer acceptable. Attention is not marketing, It is infrastructure.
 
     styles:
       self:
@@ -73,6 +73,8 @@ sections:
 
   - colors: colors-f
     type: FeaturedProjectsSection
+    title: Projects That Define the Market
+    subtitle: Real systems. Real impact. Every project builds long-term positioning.
     actions:
       - type: Link
         label: See all projects
@@ -100,20 +102,9 @@ sections:
   - type: TextSection
     title: About Us
     text: >
-      Rekonstrukt is a cultural infrastructure and talent acceleration firm operating across schools, live venues, and cultural ecosystems. 
+      We operate at the frontlines where most agencies only observe — live venues, artist networks, brand systems, institutional frameworks, and international markets. We identify structural gaps and build systems that scale, deliver measurable commercial impact, and generate long-term positioning. Our work compounds over time. It doesn't expire after a campaign cycle.
 
-
-      We operate at the frontlines where most agencies only observe—from live venues to artist networks, brand systems, institutional frameworks, and international markets.
-      We identify structural gaps and build systems that:
-
-
-      - Scale across industries 
-
-
-      - Deliver measurable commercial impact   
-
-
-      - Generate long-term attention and positioning for brands, schools, and venues Our team brings 14+ years of ground-level operational experience, delivering outcomes where failure is visible and impact is immediate. We don’t execute isolated campaigns or events. We design ecosystems that compound attention, maximize cultural influence, and create sustainable revenue pipelines.
+        **[Explore Full Overview →](/about)**
 
     colors: colors-f
     variant: variant-a
@@ -130,7 +121,7 @@ sections:
 
   - type: CtaSection
     title: 'Partner With the Experiences That Define the Market '
-    text: >+
+    text: >
       Work with Rekonstrukt to design and build high impact cultural systems and strategic pathways that create long term attention and positioning and commercial advantage.
 
 
@@ -140,7 +131,13 @@ sections:
       Strategic partnerships and market entry and cultural systems design.
 
 
-      Most engagements do not move forward and the right ones do quickly.
+      Most engagements do not move forward. The right ones do quickly.
+
+
+      If there is alignment, the first conversation happens immediately.
+
+
+      Access is selective. Alignment is everything.
 
     actions:
       - type: link
