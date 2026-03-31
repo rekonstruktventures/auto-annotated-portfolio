@@ -15,9 +15,9 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: 'Cultural infrastructure behind markets that move'
+    title: We set what comes next.
     subtitle: >-
-      We design systems and strategic pathways that position brands, institutions, and international operators ahead of where culture is going. We are brought in when the cost of getting it wrong is no longer acceptable. Attention is not marketing. It is infrastructure.
+      We design systems and strategic pathways that position brands, institutions and international operators ahead of where culture is going. We are brought in when the cost of getting it wrong is no longer acceptable. Attention is not marketing. It is infrastructure.
 
     styles:
       self:
@@ -29,10 +29,10 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-28
-          - pb-40
-          - pl-0.33
-          - pr-0.33
+          - pt-36
+          - pb-48
+          - pl-4
+          - pr-4
         flexDirection: row-reverse
         textAlign: left
 
@@ -124,7 +124,7 @@ sections:
     title: 'Partner With the Experiences That Define the Market '
     text: >
 
-      Work with Rekonstrukt to design and build high impact cultural systems and strategic pathways that create long term attention and positioning and commercial advantage.
+      Work with Rekonstrukt to design and build high-impact cultural systems that create long-term attention, positioning and commercial advantage.
 
 
        This is not execution support. It is structural alignment for operators who intend to lead not follow.
@@ -136,7 +136,7 @@ sections:
        Most engagements do not move forward. The right ones do quickly.
 
 
-       If there is alignment, the first conversation happens immediately.
+       If there is alignment, access opens immediately.
 
 
        Access is selective. Alignment is everything.
