@@ -27,8 +27,8 @@ projectFeed:
         - pb-12
 topSections:
   - type: HeroSection
-    title: Market Infrastructure
-    subtitle: 'Systems currently being built and deployed across culture and commerce.'
+    title: Market Systems
+    subtitle: 'Designing the frameworks that shape culture and commerce.'
     actions: []
     colors: colors-f
     backgroundSize: full
