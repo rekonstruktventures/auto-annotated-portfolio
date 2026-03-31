@@ -29,8 +29,8 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-28
-          - pb-40
+          - pt-24
+          - pb-32
           - pl-4
           - pr-4
         flexDirection: row-reverse
@@ -103,7 +103,7 @@ sections:
   - type: TextSection
     title: About Us
     text: >
-      We operate at the frontlines where most agencies only observe — live venues, artist networks, brand systems, institutional frameworks, and international markets. We identify structural gaps and build systems that scale, deliver measurable commercial impact, and generate long-term positioning. Our work compounds over time. It doesn't expire after a campaign cycle.
+      We operate at the frontlines where most agencies only observe — live venues, artist networks, brand systems, institutional frameworks and international markets. We identify structural gaps and build systems that scale, deliver measurable commercial impact and generate long-term positioning. Our work compounds over time. It doesn't expire after a campaign cycle.
 
         **[Explore Full Overview →](/about)**
 
