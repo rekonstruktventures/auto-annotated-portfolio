@@ -17,7 +17,7 @@ sections:
     backgroundSize: full
     title: 'Cultural infrastructure behind markets that move'
     subtitle: >-
-      We design systems and strategic pathways that position brands, institutions, and international operators ahead of where culture is going. We are brought in when the cost of getting it wrong is no longer acceptable. Attention is not marketing, It is infrastructure.
+      We design systems and strategic pathways that position brands, institutions, and international operators ahead of where culture is going. We are brought in when the cost of getting it wrong is no longer acceptable. Attention is not marketing. It is infrastructure.
 
     styles:
       self:
@@ -29,12 +29,13 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-36
-          - pb-48
+          - pt-28
+          - pb-40
           - pl-4
           - pr-4
         flexDirection: row-reverse
         textAlign: left
+
     type: HeroSection
     actions: []
 
@@ -122,22 +123,23 @@ sections:
   - type: CtaSection
     title: 'Partner With the Experiences That Define the Market '
     text: >
+
       Work with Rekonstrukt to design and build high impact cultural systems and strategic pathways that create long term attention and positioning and commercial advantage.
 
 
-      This is not execution support. It is structural alignment for operators who intend to lead not follow.
+       This is not execution support. It is structural alignment for operators who intend to lead not follow.
 
 
-      Strategic partnerships and market entry and cultural systems design.
+       Strategic partnerships and market entry and cultural systems design.
 
 
-      Most engagements do not move forward. The right ones do quickly.
+       Most engagements do not move forward. The right ones do quickly.
 
 
-      If there is alignment, the first conversation happens immediately.
+       If there is alignment, the first conversation happens immediately.
 
 
-      Access is selective. Alignment is everything.
+       Access is selective. Alignment is everything.
 
     actions:
       - type: link
