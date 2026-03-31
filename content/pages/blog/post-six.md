@@ -48,7 +48,7 @@ Schools depend on fragmented vendors. There is no consistent pipeline of quality
 
 **What Rekonstrukt Changes**
 
-At Rekonstrukt Global Services Pvt Ltd, we don’t run activities.
+At Rekonstrukt Global Services, we don’t run activities.
 
 We build systems.
 

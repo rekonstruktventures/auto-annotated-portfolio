@@ -52,7 +52,7 @@ Experiences are no longer an add-on. They are the product.
 
 This is where structured ecosystems become valuable.
 
-Through Rekonstrukt Global Services the approach is to build environments where experiences continuously occur—across schools, venues and cultural platforms—instead of isolated campaigns or one-off events.
+Through Rekonstrukt Global Services, the approach is to build environments where experiences continuously occur—across schools, venues and cultural platforms—instead of isolated campaigns or one-off events.
 
 **2. Talent Supply Is Growing Faster Than Platforms**
 
@@ -98,7 +98,7 @@ When a brand integrates naturally across multiple cultural touchpoints over time
 
 This is the model we are building.
 
-At **Rekonstrukt Global Services Pvt Ltd**, the focus is on creating a connected network where:
+At **Rekonstrukt Global Services**, the focus is on creating a connected network where:
 
 - Schools run structured, industry-relevant programs
 - Venues operate consistent, high-quality cultural calendars

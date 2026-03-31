@@ -18,7 +18,7 @@ media:
 
 Most marketing budgets today are poured into short-term campaigns that spike attention briefly—and then disappear. The result: temporary visibility, fragmented impact, and zero long-term brand familiarity.
 
-Rekonstrukt flips the script.
+We flipped the script.
 
 We embed brands into year-round cultural ecosystems, turning attention into a compounding, long-term asset.
 
@@ -41,4 +41,4 @@ We embed brands into year-round cultural ecosystems, turning attention into a co
 
 Create an unbroken chain of attention. Brands remain visible, trusted, and influential inside cultural systems year after year, transforming marketing from a cost into a strategic asset.
 
-Rekonstrukt controls the pipeline. We design, execute, and maintain the infrastructure so that attention compounds, ecosystems thrive, and brands capture real, measurable long-term value.
+Rekonstrukt Global Services controls the pipeline. We design, execute, and maintain the infrastructure so that attention compounds, ecosystems thrive, and brands capture real, measurable long-term value.

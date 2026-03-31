@@ -47,7 +47,7 @@ Artists lack consistent stages. Venues lack reliable pipelines.
 
 This gap is structural.
 
-Through Rekonstrukt Global Services Pvt Ltd we design and implement structured live music programming systems for venues.
+Through Rekonstrukt Global Services, we design and implement structured live music programming systems for venues.
 
 Instead of isolated bookings venues operate on curated calendars with consistent artist rotations and themed nights and touring circuits across the year.
 

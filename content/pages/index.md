@@ -124,7 +124,7 @@ sections:
     title: 'Partner With the Experiences That Define the Market '
     text: >
 
-      Work with Rekonstrukt to design and build high-impact cultural systems that create long-term attention, positioning and commercial advantage.
+      Work with Rekonstrukt Global Services to design and build high-impact cultural systems that create long-term attention, positioning and commercial advantage.
 
 
        This is not execution support. It is structural alignment for operators who intend to lead not follow.

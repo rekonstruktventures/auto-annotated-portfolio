@@ -55,7 +55,7 @@ Preference drives long-term revenue.
 
 **The Model**
 
-At Rekonstrukt Global Services Pvt Ltd, we approach marketing differently.
+At Rekonstrukt Global Services, we approach marketing differently.
 
 We don’t start with: How much should be spent this quarter?
 
@@ -86,7 +86,7 @@ It was infrastructure.
 
 **The Objective**
 
-Through Rekonstrukt Global Services Pvt Ltd, we are building systems where marketing capital is deployed into environments that do not disappear after a campaign ends.
+Through Rekonstrukt Global Services, we are building systems where marketing capital is deployed into environments that do not disappear after a campaign ends.
 
 The objective is simple:
 

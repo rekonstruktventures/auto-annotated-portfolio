@@ -18,7 +18,7 @@ media:
 
 Nightlife venues often operate without a long-term programming strategy. Artist bookings are handled week by week, creating inconsistent audience turnout, unpredictable revenue and weak brand positioning.
 
-Rekonstrukt Global Services Pvt Ltd solves this structural gap by **designing structured, scalable live music calendars for premium venues**, transforming random bookings into predictable, high-value programming cycles.
+Rekonstrukt Global Services solves this structural gap by **designing structured, scalable live music calendars for premium venues**, transforming random bookings into predictable, high-value programming cycles.
 
 **Our Framework Includes:**
 
