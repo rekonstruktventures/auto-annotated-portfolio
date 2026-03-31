@@ -17,7 +17,10 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >
-      **Rekonstrukt Global Services Pvt. Ltd.** was founded to redesign how experiences, education, and engagement are delivered for the next generation. We operate at the intersection of events, youth culture, education, and brand collaboration — building platforms that deliver meaningful impact while remaining commercially scalable.
+      Rekonstrukt Global Services was founded to redesign how experiences, education and engagement are delivered for the next generation. 
+
+
+      We operate at the intersection of events, youth culture, education and brand collaboration — building platforms that deliver meaningful impact while remaining commercially scalable.
 
 
       ## Our Philosophy
@@ -38,12 +41,12 @@ sections:
       - Skill-based development
 
 
-      Through curated workshops, performances, artist interactions, and experiential formats, we help schools deliver programs that are relevant now and valuable for the future.
+      Through curated workshops, performances, artist interactions and experiential formats, we help schools deliver programs that are relevant now and valuable for the future.
 
 
       ## Events & Entertainment
 
-      We collaborate with emerging and established artists, creators, and performers to produce high-impact cultural experiences. From school festivals and youth events to large-scale productions, our approach combines:
+      We collaborate with emerging and established artists, creators and performers to produce high-impact cultural experiences. From school festivals and youth events to large-scale productions, our approach combines:
 
       - Strategic event design
 
@@ -64,16 +67,16 @@ sections:
 
       ## Why Rekonstrukt?
 
-      - **Platform-driven mindset** — scalable across schools, cities, and communities
+      - **Platform-driven mindset** — scalable across schools, cities and communities
 
       - **Long-term value** — not one-off projects
 
-      - **Structural solutions** — systems that align culture, attention, and brand impact
+      - **Structural solutions** — systems that align culture, attention and brand impact
 
 
       ## Our mission 
 
-      **Reconstruct outdated models, unlock new opportunities, and build experiences that inspire creativity, learning, and human potential.**
+      **Reconstruct outdated models, unlock new opportunities and build experiences that inspire creativity, learning and human potential.**
 
 
       *Reconstructing ideas. Reimagining experiences. Building the future.*

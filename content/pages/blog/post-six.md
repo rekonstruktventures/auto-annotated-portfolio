@@ -18,7 +18,7 @@ Static activities. No continuity. No relevance.
 
 The world has changed. The system hasn’t.
 
-Today’s students grow up with access to technology, creators, global culture, and emerging industries from day one. Yet inside schools, supplementary education still operates on outdated formats.
+Today’s students grow up with access to technology, creators, global culture and emerging industries from day one. Yet inside schools, supplementary education still operates on outdated formats.
 
 The result is a widening disconnect between what students experience outside school and what schools actually offer.
 
@@ -26,7 +26,7 @@ The result is a widening disconnect between what students experience outside sch
 
 **1. No Access to Real Industry Professionals**
 
-Students rarely interact with active creators, musicians, designers, or entrepreneurs. Exposure remains theoretical.
+Students rarely interact with active creators, musicians, designers or entrepreneurs. Exposure remains theoretical.
 
 Real inspiration comes from people who are actively building in their fields.
 
@@ -48,7 +48,8 @@ Schools depend on fragmented vendors. There is no consistent pipeline of quality
 
 **What Rekonstrukt Changes**
 
-At Rekonstrukt Global Services Pvt. Ltd., we don’t run activities.
+At Rekonstrukt Global Services Pvt Ltd, we don’t run activities.
+
 We build systems.
 
 We integrate working industry professionals directly into school ecosystems through structured, long-term programs.

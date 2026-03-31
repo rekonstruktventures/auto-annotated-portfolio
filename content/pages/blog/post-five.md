@@ -39,9 +39,9 @@ Over the next decade, three shifts will define the industries we operate in.
 
 ### 1. Personalized Learning & Experiences
 
-AI can analyze interests, learning patterns, and behavioral signals to create **hyper-personalized extracurricular programs** for students.
+AI can analyze interests, learning patterns and behavioral signals to create **hyper-personalized extracurricular programs** for students.
 
-Instead of one-size-fits-all activities, schools can offer curated programs tailored to each student’s creativity, interests, and strengths.
+Instead of one-size-fits-all activities, schools can offer curated programs tailored to each student’s creativity, interests and strengths.
 
 For investors and education partners, this means:
 

@@ -55,7 +55,7 @@ Preference drives long-term revenue.
 
 **The Model**
 
-At Rekonstrukt Global Services Pvt. Ltd., we approach marketing differently.
+At Rekonstrukt Global Services Pvt Ltd, we approach marketing differently.
 
 We don’t start with: How much should be spent this quarter?
 
@@ -64,7 +64,7 @@ Where should this brand exist consistently over the next five years?
 
 Once that is clear, the rest becomes execution.
 
-Through our network across schools, live entertainment venues, and cultural programming platforms, brands deploy budgets into systems that continuously generate attention.
+Through our network across schools, live entertainment venues and cultural programming platforms, brands deploy budgets into systems that continuously generate attention.
 
 Students encounter the brand during school programs
 Young audiences see it again at live events
@@ -86,7 +86,7 @@ It was infrastructure.
 
 **The Objective**
 
-Through Rekonstrukt, we are building systems where marketing capital is deployed into environments that do not disappear after a campaign ends.
+Through Rekonstrukt Global Services Pvt Ltd, we are building systems where marketing capital is deployed into environments that do not disappear after a campaign ends.
 
 The objective is simple:
 
