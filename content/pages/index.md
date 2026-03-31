@@ -29,10 +29,10 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-24
-          - pb-32
-          - pl-4
-          - pr-4
+          - pt-28
+          - pb-40
+          - pl-0.33
+          - pr-0.33
         flexDirection: row-reverse
         textAlign: left
 
