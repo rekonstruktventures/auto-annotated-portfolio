@@ -114,7 +114,7 @@ sections:
 
       - Generate long-term attention and positioning
 
-      Our work compounds. It doesn’t expire after a campaign cycle.
+      - Our work compounds. It doesn’t expire after a campaign cycle.
 
         **[Explore Full Overview →](/about)**
 
