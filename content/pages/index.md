@@ -10,6 +10,7 @@ backgroundImage:
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 75
+  lazyLoad: true # important for mobile performance
 
 sections:
   - elementId: ''
@@ -29,11 +30,12 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-36
-          - pb-48
+          - pt-24
+          - pb-36
           - pl-4
           - pr-4
-        flexDirection: row-reverse
+          # slightly smaller top/bottom padding for mobile
+        flexDirection: column-reverse # column for mobile, reversed for desktop
         textAlign: left
 
     type: HeroSection
@@ -66,10 +68,11 @@ sections:
         height: auto
         width: wide
         padding:
-          - pt-24
+          - pt-16
           - pb-24
           - pl-4
           - pr-4
+          # reduces vertical padding for mobile
         textAlign: left
 
   - colors: colors-f
@@ -94,7 +97,7 @@ sections:
         height: auto
         width: wide
         padding:
-          - pt-24
+          - pt-16
           - pb-24
           - pl-4
           - pr-4
@@ -165,7 +168,7 @@ sections:
         height: auto
         width: narrow
         padding:
-          - pt-28
+          - pt-20
           - pb-28
           - pl-4
           - pr-4
