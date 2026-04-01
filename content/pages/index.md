@@ -30,12 +30,12 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-24
-          - pb-36
+          - pt-48 # desktop-friendly top padding
+          - pb-64 # desktop-friendly bottom padding
           - pl-4
           - pr-4
           # slightly smaller top/bottom padding for mobile
-        flexDirection: column-reverse # column for mobile, reversed for desktop
+        flexDirection: column-reverse
         textAlign: left
 
     type: HeroSection
