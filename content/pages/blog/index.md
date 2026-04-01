@@ -29,7 +29,7 @@ postFeed:
 topSections:
   - type: HeroSection
     title: What the market is getting wrong
-    subtitle: 'Observations and breakdowns from inside evolving cultural and commercial systems.'
+    subtitle: 'Most operators are solving for visibility. Few are building systems that last. These are the structural gaps we focus on.'
     actions: []
     colors: colors-f
     backgroundSize: full

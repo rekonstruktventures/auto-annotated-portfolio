@@ -15,9 +15,9 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: We set what comes next.
+    title: We position you ahead of culture.
     subtitle: >-
-      We design systems and strategic pathways that position brands, institutions and international operators ahead of where culture is going. We are brought in when the cost of getting it wrong is no longer acceptable. Attention is not marketing. It is infrastructure.
+      Most organizations are reacting to what’s already working. We build systems that place you where attention is going next and keep you there. We are brought in when the cost of getting it wrong is no longer acceptable. Attention isn’t marketing ... It’s infrastructure.
 
     styles:
       self:
@@ -103,7 +103,18 @@ sections:
   - type: TextSection
     title: About Us
     text: >
-      We operate at the frontlines where most agencies only observe — live venues, artist networks, brand systems, institutional frameworks and international markets. We identify structural gaps and build systems that scale, deliver measurable commercial impact and generate long-term positioning. Our work compounds over time. It doesn't expire after a campaign cycle.
+      We operate inside environments most agencies only observe — live venues, artist networks, brand systems, institutions and international markets.
+
+
+      We identify structural gaps and build systems that:
+
+      - Scale across industries
+
+      - Deliver measurable commercial impact
+
+      - Generate long-term attention and positioning
+
+      Our work compounds. It doesn’t expire after a campaign cycle.
 
         **[Explore Full Overview →](/about)**
 
@@ -121,21 +132,16 @@ sections:
         textAlign: left
 
   - type: CtaSection
-    title: 'Partner With the Experiences That Define the Market '
+    title: 'Partner With the Systems That Define the Market '
     text: >
 
-      Work with Rekonstrukt Global Services to design and build high-impact cultural systems that create long-term attention, positioning and commercial advantage.
+      Work with Rekonstrukt Global Services to design and build cultural systems that create long-term attention, positioning and commercial advantage.
 
 
-       This is not execution support. It is structural alignment for operators who intend to lead not follow.
-
-
-       Strategic partnerships and market entry and cultural systems design.
+       This is not execution support. It is structural alignment for operators who intend to lead, not follow.
 
 
        Most engagements do not move forward. The right ones do quickly.
-
-
        If there is alignment, access opens immediately.
 
 
