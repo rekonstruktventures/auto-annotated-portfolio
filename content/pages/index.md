@@ -135,14 +135,14 @@ sections:
     title: 'Partner With the Systems That Define the Market '
     text: >
 
-      Work with Rekonstrukt Global Services to design and build cultural systems that create long-term attention, positioning and commercial advantage.
+      - Work with Rekonstrukt Global Services to design and build cultural systems that create long-term attention, positioning and commercial advantage.
 
 
-       This is not execution support. It is structural alignment for operators who intend to lead, not follow.
+       - This is not execution support. It is structural alignment for operators who intend to lead, not follow.
 
 
-       Most engagements do not move forward. The right ones do quickly.
-       If there is alignment, access opens immediately.
+       - Most engagements do not move forward. The right ones do quickly.
+       We engage selectively. Only partnerships aligned with our vision move forward.
 
 
        Access is selective. Alignment is everything.
@@ -150,8 +150,8 @@ sections:
     actions:
       - type: link
         label: ' Engage With Us → '
-        altText: 'Email partnerships@rekonstrukt.xyz'
-        url: 'mailto:partnerships@rekonstrukt.xyz'
+        altText: 'Open engagement form'
+        url: 'https://tally.so/r/A7DBxo'
         showIcon: false
         icon: arrowRight
         iconPosition: right
